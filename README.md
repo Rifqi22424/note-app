@@ -1,3 +1,10 @@
+![IMG-20241113-WA0005](https://github.com/user-attachments/assets/e7ddd7c0-9cc0-43e3-97ad-4fc4c837fabe)
+![IMG-20241113-WA0009](https://github.com/user-attachments/assets/557fce24-bb3a-4fff-a7d6-c64acd1cc930)
+![IMG-20241113-WA0010](https://github.com/user-attachments/assets/2df387ac-26b3-48ff-bf4d-200fd52b9aa2)
+![IMG-20241113-WA0007](https://github.com/user-attachments/assets/e1ab7f6e-3815-4a66-aefe-9a7e468a5ed9)
+![IMG-20241113-WA0006](https://github.com/user-attachments/assets/c690dc6d-707e-4aa6-b655-ff3123fd85c7)
+![IMG-20241113-WA0008](https://github.com/user-attachments/assets/2bc8538c-42c5-487e-b485-86a000126daa)
+
 # note_app
 
 A new Flutter project.
